@@ -105,6 +105,7 @@ main{
 }
 .main__content--right{
     width: 40%;
+
 }
 .main__content--smallTitle{
     color: var(--gray);
